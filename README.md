@@ -1,2 +1,2 @@
 **@Beans, @Components, @Autowired, @Configuration**
-<br/>Beans versus Components
+<br/>Beans versus Components (Scopes)
